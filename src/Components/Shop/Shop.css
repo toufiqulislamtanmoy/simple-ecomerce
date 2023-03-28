@@ -14,3 +14,11 @@
     gap: 2rem;
    
 }
+
+.cart-continer{
+   background-color: orange;
+   color: white;
+   text-align: center;
+   border-radius: 15px;
+   padding: 1rem;
+}
