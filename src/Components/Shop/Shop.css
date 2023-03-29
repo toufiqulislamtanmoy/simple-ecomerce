@@ -16,9 +16,14 @@
 }
 
 .cart-continer{
-   background-color: orange;
-   color: white;
+   background-color: rgb(233, 206, 155);
+   color: rgb(67, 67, 67);
    text-align: center;
    border-radius: 15px;
    padding: 1rem;
+}
+
+.cart{
+    margin-top: 1rem;
+    text-align: left; 
 }
