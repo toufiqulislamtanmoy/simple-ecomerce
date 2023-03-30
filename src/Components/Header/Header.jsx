@@ -3,7 +3,7 @@ import './Header.css'
 import logo from '../../images/Logo.svg'
 const Header = () => {
     return (
-        <nav className='navbar'>
+        <nav className='navbarr'>
             <div className="brand-logo">
                 <img src={logo} alt="" />
             </div>
